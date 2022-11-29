@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Overview on European Open Hardware Alliance</title>
-    <link>www.hardware-alliance.eu/docs/</link>
+    <link>/docs/</link>
     <description>Recent content in Overview on European Open Hardware Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="www.hardware-alliance.eu/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
-      <link>www.hardware-alliance.eu/docs/publications/</link>
+      <link>/docs/publications/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>www.hardware-alliance.eu/docs/publications/</guid>
+      <guid>/docs/publications/</guid>
       <description>In this section you find publications from different sources around Open Hardware.</description>
     </item>
     
     <item>
       <title>Funding</title>
-      <link>www.hardware-alliance.eu/docs/funding/</link>
+      <link>/docs/funding/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>www.hardware-alliance.eu/docs/funding/</guid>
+      <guid>/docs/funding/</guid>
       <description>This section is presenting you possible funding sources.</description>
     </item>
     
     <item>
       <title>Networks</title>
-      <link>www.hardware-alliance.eu/docs/networks/</link>
+      <link>/docs/networks/</link>
       <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
       
-      <guid>www.hardware-alliance.eu/docs/networks/</guid>
+      <guid>/docs/networks/</guid>
       <description>Different networks are active in the area of Open Hardware. Here we list some.</description>
     </item>
     
     <item>
       <title>Mentorship</title>
-      <link>www.hardware-alliance.eu/docs/mentorship/</link>
+      <link>/docs/mentorship/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>www.hardware-alliance.eu/docs/mentorship/</guid>
+      <guid>/docs/mentorship/</guid>
       <description>Open Hardware Makers</description>
     </item>
     
     <item>
       <title>OPEN!NEXT</title>
-      <link>www.hardware-alliance.eu/docs/open-next/</link>
+      <link>/docs/open-next/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>www.hardware-alliance.eu/docs/open-next/</guid>
+      <guid>/docs/open-next/</guid>
       <description>OpenNext</description>
     </item>
     
